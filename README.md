@@ -9,7 +9,7 @@ int main()
 {
   printf("Hello World!\n");
   printf("This is my first repositroy on GitHub\n");
-  printf("Date of issue of this repository is %d-%d-%d\n" , 21, 06, 2019);
+  printf("Date of issue of this repository is %d - %d - %d\n" , 21, 06, 2019);
   return 0;
 }
 
